@@ -9,7 +9,7 @@
 	"dependencies": {
 		"@merryjs/photo-viewer": "file:..",
 		"prop-types": "^15.6.0",
-		"react": "16.2.0",
+		"react": "16.14.0",
 		"react-native": "^0.53.3"
 	},
 	"devDependencies": {
