@@ -16,8 +16,10 @@
     esutils "^2.0.2"
     js-tokens "^3.0.0"
 
-"@merryjs/photo-viewer@file:..":
-  version "2.0.2"
+"@merryjs/photo-viewer@2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@merryjs/photo-viewer/-/photo-viewer-2.2.2.tgz#9e8ae75f09d15378cf260a106d055d0fde9dca11"
+  integrity sha512-IvhA3MTtXig+nvRvYkmghnrP5dF0HMnlZx3w5D7APA2q+X7XzMr6wD7ZbJw5qaDVabTAJ2TMLj0iBlXoD1e2ow==
 
 abab@^1.0.4:
   version "1.0.4"
